@@ -1,0 +1,15 @@
+/* NotFound.css */
+.not-found-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .not-found-heading {
+    color: #d9534f; /* Bootstrap's danger color */
+    font-size: 2em;
+  }
+  
+  .not-found-text {
+    color: #777;
+    font-size: 1.2em;
+  }

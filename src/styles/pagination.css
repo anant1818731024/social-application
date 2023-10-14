@@ -1,0 +1,39 @@
+/* Pagination.css */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+.pagination ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+  
+.pagination li {
+    cursor: pointer;
+    margin: 0 5px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    user-select: none;
+}
+  
+.pagination li:hover {
+    background-color: #f0f0f0;
+}
+  
+.pagination li.active {
+    background-color: #4caf50;
+    color: #fff;
+}
+  
+.pagination li.disabled {
+    color: #ccc;
+    cursor: not-allowed;
+}
+  
+  /* Add additional styling for Prev and Next buttons if needed */
+  
