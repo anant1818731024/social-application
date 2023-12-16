@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anant1818731024/social-application/static/css/main.16c31a64.css",
+    "main.js": "/anant1818731024/social-application/static/js/main.23f69082.js",
+    "index.html": "/anant1818731024/social-application/index.html",
+    "main.16c31a64.css.map": "/anant1818731024/social-application/static/css/main.16c31a64.css.map",
+    "main.23f69082.js.map": "/anant1818731024/social-application/static/js/main.23f69082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c31a64.css",
+    "static/js/main.23f69082.js"
+  ]
+}
